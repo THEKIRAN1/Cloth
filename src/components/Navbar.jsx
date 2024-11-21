@@ -45,7 +45,7 @@ function Navbar() {
     </div>
     <a className="btn btn-ghost text-xl">Cloth</a>
   </div>
-  <div className="navbar-end">
+  <div className="navbar-end space-x-3">
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
     {navItems}
@@ -66,7 +66,7 @@ function Navbar() {
   </svg>
 </label>
   </div>
-    <a className="bg-black text-white px-2 py-2 rounded-md hover: bg-slate-800 duration-300 curser-pointer">Login</a>
+    <a className="bg-black text-white px-3 py-2 rounded-md hover: bg-slate-800 duration-300 curser-pointer">Login</a>
   </div>
   </div>
 </div>
