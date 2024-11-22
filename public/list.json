@@ -1,0 +1,38 @@
+[ 
+  {  
+    "id":1
+    , "name": " Men's Black Jacket",
+      "title": "SPECIAL OFFER!!!!", 
+      "price":1499,
+      "category":"Winter-Clothes",
+      "image": "blob:https://www.freepik.com/638ef015-5e7b-40a9-9c0e-d3686313b3e9"
+  },
+  {
+    "id":2
+    , "name": "Blue-Hoodie",
+      "title": "New Arrival!",
+      "price": 1299,
+      "category":"Winter-Clothes",
+      "image": "blob:https://www.freepik.com/638ef015-5e7b-40a9-9c0e-d3686313b3e9"
+  },
+
+  {
+    "id":3
+    , "name": "Women's Black Jacket",
+      "title": "Special Offer!!!!",
+      "price": 999,
+      "category":"Summer-Clothes",
+      "image": "blob:https://www.freepik.com/638ef015-5e7b-40a9-9c0e-d3686313b3e9"
+  },
+  {
+    "id":4
+    , "name": "Men's Slim-Fit Jeans",
+      "title": "Fashion Collection",
+      "price": 1199,
+      "category":"Summer-Clothes",
+      "image": "blob:https://www.freepik.com/638ef015-5e7b-40a9-9c0e-d3686313b3e9"
+
+
+  }
+
+]
